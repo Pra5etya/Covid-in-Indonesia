@@ -16,7 +16,7 @@ This repository provides an in-depth analysis of COVID-19 cases across Indonesia
 
 ## 🗂 Data Sources
 The data used in this analysis is obtained from open sources data including:
-* [Kaggle]("https://www.kaggle.com/datasets/hendratno/covid19-indonesia")
+* [Kaggle](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
 * [Article](https://indonesiabaik.id/infografis/4-level-penilaian-krisis-kasus-covid-19)
 
 ## 👁 Key Insights
